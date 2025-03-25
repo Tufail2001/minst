@@ -1,2 +1,2 @@
-# minst
+# /minst/new
 First Practice minst
