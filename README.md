@@ -1,2 +1,2 @@
-# minst  
+# minst    
 First Practice minst
